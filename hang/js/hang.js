@@ -1,4 +1,6 @@
 window.onload = function(){
-  alert('123');
+ document.getElementById('apple').onclick = function(){
+   alert('123')
+ }
   
 }
